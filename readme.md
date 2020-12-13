@@ -1,6 +1,6 @@
 #uruchomienie
 ````
-pip install -r "requirements.txt"
+pip3 install -r "requirements.txt"
 ````
 uruchomienie konfiguracji ze środowiskiem python3 -->edit configuration -->wybieramy plik zadanie.py
 lub
